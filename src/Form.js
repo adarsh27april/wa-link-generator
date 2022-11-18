@@ -1,6 +1,5 @@
 import React from 'react'
 import { useState } from 'react';
-import intlTelInput from 'intl-tel-input';
 
 
 const Form = () => {
