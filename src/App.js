@@ -8,9 +8,9 @@ const App = () => {
       >
 
          <div className="container-fluid">
-            <a className="navbar-brand" >
+            <span className="navbar-brand" >
                Whatsapp Number Link genrator
-            </a>
+            </span>
          </div>
       </nav>
       <div className='text-center mt-5'>

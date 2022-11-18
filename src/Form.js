@@ -41,7 +41,7 @@ const Form = () => {
       {
          check &&
          <div className='mb-5'>
-            <a className="btn btn-secondary mb-2" href={WA_url} target="_blank">Whatsapp Link</a>
+            <a className="btn btn-secondary mb-2" href={WA_url} target="_blank" rel="noreferrer">Whatsapp Link</a>
             <br />
             your whatsapp link is :<br />
             {WA_url}
